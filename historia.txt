@@ -4,6 +4,4 @@ Segunda versión del archivo historia.txt
 
 Tercera versión del archivo historia.txt
 
-Historia de su vida
-
-Historia de su vida 2
+Otro cambio
